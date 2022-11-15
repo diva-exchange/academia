@@ -1,3 +1,6 @@
+[Content Plan 2022.xlsx](https://github.com/diva-exchange/academia/files/10014012/Content.Plan.2022.xlsx)
+[Some notes to the content plan.docx](https://github.com/diva-exchange/academia/files/10014091/Some.notes.to.the.content.plan.docx)
+
 # Topics: New Articles
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
 
