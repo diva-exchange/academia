@@ -3,6 +3,12 @@
 # Topics: New Articles
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
 
+## 15-Dec-2022 Short Book review
+Book "Vincent Gramoli - Blockchain Scalability and its Foundations in Distributed Systems", 2022 - What is the relation to DIVA (development of "Democratic Byzantine Faul Tolerance" since 2020.
+
+## 15-Dec-2022 Democratic Byzantine Fault Tolerance
+What is it? Why is it important regarding energy efficiency? What are consensus algos in general? How is used by DIVA?
+
 ## 15-Nov-2022 Security in the work with crypto exchanges
 Best Security Practices in Crypto Exchanges. Diva’s Experience.
 
