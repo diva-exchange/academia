@@ -3,7 +3,7 @@
 # Topics: New Articles
 _Instructions: add new topic suggestions on top, same format as the very first topic at the bottom._
 
-## Conference FOSDEM 2023, 3/4 February, Brussels, https://fosdem.org/2023/
+## 15-Dec-2022 Conference FOSDEM 2023, 3/4 February, Brussels, https://fosdem.org/2023/
 diva.exchange will talk about:
 * Javascript for Privacy-Protecting Peer-to-Peer Applications, Usage of the I2P-SAM Javascript Library: Anonymized and End-to-End Encrypted Communication
 * DNS for I2P: a Distributed Network without Central Authority, How Students Tried to Create a DNS for an Overlay Network without a Central Authority 
